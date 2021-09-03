@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Enes.
 
 - 🏠 I'm from Istanbul,Turkey.                                                                              
-- 👀 I’m interested in Mobile App Development.
+- 👀 I’m interested in Android App Development.
 - 🌱 I’m currently learning Kotlin.
 
 <!---
