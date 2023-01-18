@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Enes.  <p> <img align="right" src="https://github.com/enesdurak/enesdurak/blob/main/dancing-mascot-android.gif" width="200" height="200" /> </p>
 
 - 🏠 I'm from Istanbul,Turkey.
-- :school: I'm senior student at Maltepe University - Computer Science Department.                                                                               
+- :school: I'm a senior student at Maltepe University - Computer Science Department.                                                                               
 - 👀 I’m interested in Android App Development.
 - 🌱 I’m currently learning Kotlin and Native Android App Development.
 
